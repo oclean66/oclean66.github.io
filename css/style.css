@@ -1,0 +1,43 @@
+body {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    font-display: swap;
+}
+
+.xoxo_fn_nav .nav_menu a {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    font-display: swap;
+}
+
+input {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    font-display: swap;
+}
+
+input {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    font-display: swap;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
