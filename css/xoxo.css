@@ -334,6 +334,7 @@ input[type="text"]:focus{
 }
 .xoxo_fn_header .logo:after{
 	content: '';
+	filter: invert(99%) sepia(0%) saturate(0%) hue-rotate(86deg) brightness(118%) contrast(119%);
 	position: absolute;
 	bottom: -30px;
 	left: 0;
@@ -348,7 +349,7 @@ input[type="text"]:focus{
 	position: relative;
 	font-family: var(--hff);
 	font-size: 18px;
-	color: #000;
+	color: #ffffff;
 	font-weight: 900;
 	text-transform: uppercase;
 	line-height: 50px;
